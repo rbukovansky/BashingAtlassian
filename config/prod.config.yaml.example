@@ -1,0 +1,18 @@
+--
+crowd:
+  protocol: https
+  server: crowd.example.com
+  credentials: crowdapi:RESTAPIPassword
+  secure: true
+
+jira:
+  protocol: https
+  server: jira.example.com
+  credentials: jiraapi:RESTAPIPassword
+  secure: true
+
+confluence:
+  protocol: https
+  server: confluence.example.com
+  credentials: crowdapi:RESTAPIPassword
+  secure: true

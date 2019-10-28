@@ -1,0 +1,16 @@
+---
+<application_name>: #jira, confluence, bitbucket, crowd
+	  protocol: <http|https>
+	  server: <server_URI> #i.e. crowd.example.com
+	  credentials: <username:password>
+	  secure: <true|false>
+<application_name>: #jira, confluence, bitbucket, crowd
+	  protocol: <http|https>
+	  server: <server_URI> #i.e. crowd.example.com
+	  credentials: <username:password>
+	  secure: <true|false>
+<application_name>: #jira, confluence, bitbucket, crowd
+	  protocol: <http|https>
+	  server: <server_URI> #i.e. crowd.example.com
+	  credentials: <username:password> #rest_api_user:testingpassword
+	  secure: <true|false>
